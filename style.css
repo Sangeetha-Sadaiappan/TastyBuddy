@@ -47,7 +47,7 @@ html, body {
     padding-top: 80px;
     width: 100vw;
     min-height: 100vh;
-    background-image: url(/images/home2.jpg);
+    background-image: url(./images/home2.jpg);
     background-size: cover;
     background-attachment: fixed;
   }
@@ -80,7 +80,7 @@ html, body {
     padding-top: 40px;
     width: 100vw;
     min-height: 100vh;
-    background-image: url(/images/home2.jpg);
+    background-image: url(./images/home2.jpg);
     background-size: cover;
     background-attachment: fixed;
   }
@@ -167,7 +167,7 @@ html, body {
     padding-top: 80px;
     width: 100vw;
     min-height: 100vh;
-    background-image: url(/images/home2.jpg);
+    background-image: url(./images/home2.jpg);
     background-size: cover;
     background-attachment: fixed;
   }
